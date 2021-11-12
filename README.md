@@ -1,2 +1,2 @@
 # EDA
-essential dynamics Analysis
+Essential Dynamics Analysis
